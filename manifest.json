@@ -1,7 +1,7 @@
 {
   "theme_color": "#f9f7f4",
   "background_color": "#f9f7f4",
-  "display": "fullscreen",
+  "display": "browser",
   "scope": "/",
   "start_url": "/",
   "name": "Gifty",

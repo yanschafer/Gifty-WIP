@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78143bdb-4f64-4407-8139-c6934d4e6e4a" name="Changes" comment="" />
+    <list default="true" id="78143bdb-4f64-4407-8139-c6934d4e6e4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/android-chrome-maskable-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/android-chrome-maskable-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/apple-touch-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/apple-touch-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/icon-256x256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/icon-384x384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/manifest.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/msapplication-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js.map" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +34,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BvpxG7AeZY3nxHUMGtHdnuPWJM" />
   <component name="ProjectViewState">
@@ -33,6 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1657796658954</updated>
       <workItem from="1657796661135" duration="14000" />
+      <workItem from="1658850838977" duration="2087000" />
+      <workItem from="1658930017135" duration="1367000" />
     </task>
     <servers />
   </component>

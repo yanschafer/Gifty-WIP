@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f39ab594-fc17-4825-8322-178650a33a22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icons/icon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/icon-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icons/icon-256x256.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/icon-256x256.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icons/icon-384x384.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/icon-384x384.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +41,7 @@
       <workItem from="1659891307583" duration="13000" />
       <workItem from="1659906787403" duration="247000" />
       <workItem from="1659907052205" duration="2000" />
+      <workItem from="1659907225205" duration="116000" />
     </task>
     <servers />
   </component>

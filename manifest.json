@@ -2,8 +2,9 @@
   "theme_color": "#f69435",
   "background_color": "#f69435",
   "display": "browser",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/pwa-test/",
+  "start_url": "/pwa-test/",
+  "id": "/pwa-test/",
   "name": "Gifty",
   "short_name": "Gifty",
   "icons": [
